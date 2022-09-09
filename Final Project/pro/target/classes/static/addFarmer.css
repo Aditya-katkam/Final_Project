@@ -1,0 +1,58 @@
+
+    .Container {
+        display: flex;
+        align-items: center;
+        height: 100vh;
+        justify-content: center;
+    }
+
+    .radioDiv {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .submitBtn {
+        display: flex;
+        padding: 25px;
+        justify-content: center;
+        
+    }
+
+    .width {
+        width: 100%;
+    }
+
+    form {
+        width: 300px;
+        padding: 20px;
+        
+    }
+    body {
+  background-image: url('https://showanomachi.com/img/special/tashibu/mainimage.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+label {
+  background-color: rgb(189, 250, 143);
+  color: black;
+  font-weight: bold;
+  padding: 4px;
+  text-transform: uppercase;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+}
+.iro{
+	background-color:rgb(255, 255, 255);
+  color: black;
+  font-weight: bold;
+  padding: 4px;
+  text-transform: uppercase;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+}
+p{
+	font-weight :bold;
+	  font-family : Verdana, Arial, Helvetica, sans-serif;
+	  color : White
+}
